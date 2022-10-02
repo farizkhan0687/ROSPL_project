@@ -54,3 +54,4 @@ pip install -r requirements.txt
 * Use multiple Algorithms
 * Optimize Flask app.py
 * Front-End 
+* Back-End
