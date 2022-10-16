@@ -1,26 +1,16 @@
 body {
-    background-color: #ffffff;
+    background-color: #e1f4f3;
     text-align: center;
 }
 
 .navbar {
-    background-color: #ffffff;
+    background-color: #333333;
 }
 
 a {
-    text-align: center;
     color: #f1f9f9;
 }
 
-
 a:hover {
-    color: #d65555;
-  }
-
-h4{
-    color:rgb(236, 234, 234)
-}
-
-h4:hover{
-    color: rgb(209, 209, 209);
+    color: #f0f0f0;
 }
